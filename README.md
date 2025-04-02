@@ -7,10 +7,10 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,terraform,aws" />
 <br>
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+##  Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🧑‍💻 I'm a Frontend Engineer.
+- 🌱 I’m currently learning Backend!
 - 📫 How to reach me: [X - @kosuke_eth](https://x.com/kosuke_eth)
 <br>
 
