@@ -1,33 +1,34 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
 </div>
 
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,terraform,aws" />
-<br>
-<!-- 2. プロフィールや連絡先を変更 -->
-- 🧑‍💻 I'm a Frontend Engineer.
-- 🌱 I’m currently learning Backend!
-- 📫 How to reach me: [X - @kosuke_eth](https://x.com/kosuke_eth)
-<br>
+<!-- プロフィール写真（適宜ご自身の写真URLに変更してください） -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://your-photo-url-here.jpg" alt="Kosuke's Photo" style="width: 150px; border-radius: 50%; border: 3px solid #4CAF50;" />
+</div>
 
+# Hey there, I'm Kosuke! 👋
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+Welcome to my playful corner on GitHub! 🎉
 
+## 🚀 About Me
+- 🧑‍💻 I'm a Frontend Engineer passionate about crafting engaging digital experiences.
+- 🌱 Currently expanding my horizons into Backend development.
+- 💼 Proudly working at [X - @gustocoin](https://x.com/gustocoin) where creativity meets tech.
+- 🎤 I also share my insights on talks at [Speakerdeck](https://speakerdeck.com/aikosuke_gusto).
 
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Skills
+<p align="center">
+  <img alt="My Skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,terraform,aws" />
+</p>
 
-Here are some ideas to get you started:
+## 📫 Connect with Me
+- 📱 [X - @kosuke_eth](https://x.com/kosuke_eth)
 
-- 🔭 I’m currently working on GustoDevelopment.inc
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 遊び心のあるGIFを追加 -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Playful GIF" width="200" />
+</div>
+
 
