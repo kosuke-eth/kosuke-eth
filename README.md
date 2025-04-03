@@ -1,8 +1,3 @@
-<!-- 1. GitHub usernameを変更 -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
-</div>
-
 <!-- プロフィール写真（適宜ご自身の写真URLに変更してください） -->
 <div align="center" style="margin: 20px 0;"[>
   <img src="https://pbs.twimg.com/profile_images/1875384213622718464/TqT-Df8Y_400x400.jpg" alt="Kosuke's Photo" style="width: 150px; border-radius: 50%; border: 3px solid #4CAF50;" />
