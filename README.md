@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="My Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kosuke-eth&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="My Trophies" />
   </a>
 </div>
 
