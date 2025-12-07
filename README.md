@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px; overflow: hidden; border-radius: 15px;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW94bnZ5c3Z4Y3Z4Y3Z4Y3Z4Y3Z4Y3Z4Y3Z4Y3Z4Y3Z4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="100%" alt="Space Cat Floating" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/sIIhZAKj2rDMI/giphy.gif" width="100%" alt="Nyan Cat" style="max-height: 300px; object-fit: cover;" />
 </div>
 
 <br />
