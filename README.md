@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Kosuke's%20Hub&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20x%20Backend%20Engineer&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kosuke-eth&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="My Trophies" />
-  </a>
-</div>
 
 <br />
 
