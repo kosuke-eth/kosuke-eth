@@ -1,5 +1,5 @@
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" width="100%" style="border-radius: 15px;" alt="Surreal 3D Object" />
+<div align="center" style="margin-bottom: 20px; overflow: hidden; border-radius: 15px;">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" alt="DJ Space Cat" style="max-height: 300px; object-fit: cover;" />
 </div>
 
 <br />
