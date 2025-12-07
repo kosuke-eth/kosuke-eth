@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px; border-radius: 15px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="Sad Space Cat Meme" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://media1.tenor.com/m/t0sC2q5j3cAAAAAd/cat-spin.gif" width="100%" alt="Shooting Star Cat Meme" style="max-height: 300px; object-fit: cover;" />
 </div>
 
 <br />
