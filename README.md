@@ -1,8 +1,6 @@
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="border-radius: 15px;" alt="Retro 3D Cyberpunk" />
-  <p>Welcome to... wait, where are we?</p>
+  <img src="https://media.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" width="100%" style="border-radius: 15px;" alt="Surreal 3D Object" />
 </div>
-
 
 <br />
 
