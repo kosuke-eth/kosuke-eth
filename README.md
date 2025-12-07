@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px; border-radius: 15px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/xTcnT8X5c6RkFmI6B2/giphy.gif?cid=790b7611691e3e2a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p&rid=giphy.gif" width="100%" alt="Psychedelic Space Cat Meme" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" alt="Sad Space Cat Meme" style="max-height: 300px; object-fit: cover;" />
 </div>
 
 <br />
