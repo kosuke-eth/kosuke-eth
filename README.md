@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Kosuke's%20Hub&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20x%20Backend%20Engineer&descAlignY=55&descAlign=62" width="100%" />
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" style="border-radius: 15px;" alt="Retro 3D Cyberpunk" />
+  <p>Welcome to... wait, where are we?</p>
 </div>
 
 
