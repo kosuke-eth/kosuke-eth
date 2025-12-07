@@ -20,6 +20,7 @@
 
 | Platform | Link / ID |
 | :--- | :--- |
-| **X (Twitter)** | [X - @kosuke_eth
+| **X (Twitter)** | [X - @kosuke_eth]
+
 
 
