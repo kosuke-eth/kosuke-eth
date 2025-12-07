@@ -1,7 +1,6 @@
-<div align="center" style="margin-bottom: 20px; overflow: hidden; border-radius: 15px;">
-  <img src="https://media.giphy.com/media/sIIhZAKj2rDMI/giphy.gif" width="100%" alt="Nyan Cat" style="max-height: 300px; object-fit: cover;" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Kosuke's%20Hub&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20x%20Backend%20Engineer&descAlignY=55&descAlign=62" width="100%" />
 </div>
-
 <br />
 
 ## 🚀 About Me
