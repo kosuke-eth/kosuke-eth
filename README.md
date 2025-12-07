@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: -50px;">
-  <img src="https://pbs.twimg.com/profile_images/1875384213622718464/TqT-Df8Y_400x400.jpg" alt="Kosuke's Photo" style="width: 150px; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 0 20px rgba(0,0,0,0.2);" />
+  <img src="[https://pbs.twimg.com/profile_images/1875384213622718464/TqT-Df8Y_400x400.jpg](https://pbs.twimg.com/profile_images/1983050523667513344/v7x82TgM_400x400.jpg" alt="Kosuke's Photo" style="width: 150px; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 0 20px rgba(0,0,0,0.2);" />
 </div>
 
 <h1 align="center">
